@@ -1,0 +1,13 @@
+D:\Kamizelich\10. Złodziej\Thief\Thief\bin\Debug\netcoreapp3.1\Thief.exe
+D:\Kamizelich\10. Złodziej\Thief\Thief\bin\Debug\netcoreapp3.1\Thief.deps.json
+D:\Kamizelich\10. Złodziej\Thief\Thief\bin\Debug\netcoreapp3.1\Thief.runtimeconfig.json
+D:\Kamizelich\10. Złodziej\Thief\Thief\bin\Debug\netcoreapp3.1\Thief.runtimeconfig.dev.json
+D:\Kamizelich\10. Złodziej\Thief\Thief\bin\Debug\netcoreapp3.1\Thief.dll
+D:\Kamizelich\10. Złodziej\Thief\Thief\bin\Debug\netcoreapp3.1\Thief.pdb
+D:\Kamizelich\10. Złodziej\Thief\Thief\obj\Debug\netcoreapp3.1\Thief.csprojAssemblyReference.cache
+D:\Kamizelich\10. Złodziej\Thief\Thief\obj\Debug\netcoreapp3.1\Thief.AssemblyInfoInputs.cache
+D:\Kamizelich\10. Złodziej\Thief\Thief\obj\Debug\netcoreapp3.1\Thief.AssemblyInfo.cs
+D:\Kamizelich\10. Złodziej\Thief\Thief\obj\Debug\netcoreapp3.1\Thief.csproj.CoreCompileInputs.cache
+D:\Kamizelich\10. Złodziej\Thief\Thief\obj\Debug\netcoreapp3.1\Thief.dll
+D:\Kamizelich\10. Złodziej\Thief\Thief\obj\Debug\netcoreapp3.1\Thief.pdb
+D:\Kamizelich\10. Złodziej\Thief\Thief\obj\Debug\netcoreapp3.1\Thief.genruntimeconfig.cache
